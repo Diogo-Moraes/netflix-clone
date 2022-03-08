@@ -1,0 +1,16 @@
+@media screen and (max-width: 600px) {
+header .container{
+    display:flex;
+    flex-direction: column;
+}
+
+.botoes{
+   display: flex;
+   flex-direction: column;
+    justify-content: center;
+}
+.button{
+   display: block;
+   margin-top: 20px;
+}
+}
